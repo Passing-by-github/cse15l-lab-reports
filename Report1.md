@@ -1,6 +1,15 @@
-#Lab Report 1
+Lab Report 1
 ---
-Using **cd ls cat** commands with no arguments:  
+In this lab, we learned the usage of important commands:
+
+| Command | Description |
+| --- | ----------- |
+| cd | Title |
+| ls | Text |  
+| cat | Text |  
+
+
+Using These are examples of using these key commands in different senarios:  
 ![Image](EmptyCd.png)  
 ![Image](EmptyLs.png)  
 ![Image](EmptyCat.png)  
