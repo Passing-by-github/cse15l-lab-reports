@@ -18,9 +18,10 @@ These are examples of using these key commands in different scenarios:
 **Using ls with no arguments** lists all the files within the current directory, /home. It did what it was supposed to do, making its output not an error.  
 <br> <br>
 ![Image](EmptyCat.png)  
-**Using cat with no arguments** causes the user to type in the terminal and after pressing the 'enter' button print what was typed. To exit this state, I had to press 'cntl + c'. I believe this was not an error since it wasn't given any files to print, it would print the user's input. The working directory is /home.  
+**Using cat with no arguments** causes the user to type in the terminal, and after pressing the 'enter' button, what was typed would be printed out. To exit this state, I had to press 'cntl + c'. I believe this was not an error since it wasn't given any files to print, it would print the user's input. The working directory is /home.  
 <br> <br>
-![Image](DireCd.png)  ![Image](DireCdd.png)  
+![Image](DireCd.png)    
+![Image](DireCdd.png)   
 **Using cd with a directory as an argument** changes the current path, /home, into /home/lecture1. This is shown in the next line after inputting the cd command, which means there was no error caused.  
 <br> <br>
 ![Image](DireLs.png)  
